@@ -51,6 +51,9 @@ end
 group :test do
   gem 'selenium-webdriver'
   gem 'capybara'
+  gem 'rb-notifu', '0.0.4'
+  gem 'win32console', '1.3.2'
+  gem 'wdm', '0.1.0'
 end
 
 group :doc do
